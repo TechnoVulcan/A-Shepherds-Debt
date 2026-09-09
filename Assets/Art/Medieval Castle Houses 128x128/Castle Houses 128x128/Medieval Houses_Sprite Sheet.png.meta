@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: ce8b0fcf59d0c5d4a85c1993dab5c86b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8842448884688592804
+    second: Medieval Houses_Sprite Sheet_0
+  - first:
+      213: 1720999878024820393
+    second: Medieval Houses_Sprite Sheet_1
+  - first:
+      213: 4353500894831542582
+    second: Medieval Houses_Sprite Sheet_2
+  - first:
+      213: 2606649494487662864
+    second: Medieval Houses_Sprite Sheet_3
+  - first:
+      213: 3066238953694353045
+    second: Medieval Houses_Sprite Sheet_4
+  - first:
+      213: 8385093139504373376
+    second: Medieval Houses_Sprite Sheet_5
+  - first:
+      213: 3376513030301771155
+    second: Medieval Houses_Sprite Sheet_6
+  - first:
+      213: -829027693196891426
+    second: Medieval Houses_Sprite Sheet_7
+  - first:
+      213: -8755887332040847328
+    second: Medieval Houses_Sprite Sheet_8
+  - first:
+      213: -3455908018151040180
+    second: Medieval Houses_Sprite Sheet_9
+  - first:
+      213: -8938765426311365722
+    second: Medieval Houses_Sprite Sheet_10
+  - first:
+      213: -5592985469749789536
+    second: Medieval Houses_Sprite Sheet_11
+  - first:
+      213: -8505048760754875907
+    second: Medieval Houses_Sprite Sheet_12
+  - first:
+      213: -6304332045181998449
+    second: Medieval Houses_Sprite Sheet_13
+  - first:
+      213: -4964500873112172689
+    second: Medieval Houses_Sprite Sheet_14
+  - first:
+      213: -5018055536716766491
+    second: Medieval Houses_Sprite Sheet_15
+  - first:
+      213: -6694240691774250096
+    second: Medieval Houses_Sprite Sheet_16
+  - first:
+      213: -367147823151828532
+    second: Medieval Houses_Sprite Sheet_17
+  - first:
+      213: 6013847694057838944
+    second: Medieval Houses_Sprite Sheet_18
+  - first:
+      213: 1514615011381718248
+    second: Medieval Houses_Sprite Sheet_19
+  - first:
+      213: 1117465148854903456
+    second: Medieval Houses_Sprite Sheet_20
+  - first:
+      213: -2485001345303374983
+    second: Medieval Houses_Sprite Sheet_21
+  - first:
+      213: 4921874364728587362
+    second: Medieval Houses_Sprite Sheet_22
+  - first:
+      213: -5201426275170319203
+    second: Medieval Houses_Sprite Sheet_23
+  - first:
+      213: 6293062212434808152
+    second: Medieval Houses_Sprite Sheet_24
+  - first:
+      213: -8412329307793764712
+    second: Medieval Houses_Sprite Sheet_25
+  - first:
+      213: 4564666431171189497
+    second: Medieval Houses_Sprite Sheet_26
+  - first:
+      213: -2456406464005676715
+    second: Medieval Houses_Sprite Sheet_27
+  - first:
+      213: 7308967711624028792
+    second: Medieval Houses_Sprite Sheet_28
+  - first:
+      213: -1249613786252042802
+    second: Medieval Houses_Sprite Sheet_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 516
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af996c4960b6ba70800000000000000
+      internalID: 8842448884688592804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 517
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6f824554832e710800000000000000
+      internalID: 1720999878024820393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 514
+        width: 117
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63187cd7ffdba6c30800000000000000
+      internalID: 4353500894831542582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 515
+        width: 102
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01183e497edac2420800000000000000
+      internalID: 2606649494487662864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 516
+        width: 108
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596da6f25187d8a20800000000000000
+      internalID: 3066238953694353045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 516
+        width: 113
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e19b4c8c5dd5470800000000000000
+      internalID: 8385093139504373376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 387
+        width: 113
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3956d9626b8cbde20800000000000000
+      internalID: 3376513030301771155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 387
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaa90694b3be74f0800000000000000
+      internalID: -829027693196891426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 387
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020dc58bcd6dc7680800000000000000
+      internalID: -8755887332040847328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 388
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bdea9b7f52a00d0800000000000000
+      internalID: -3455908018151040180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 388
+        width: 112
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abfa22543023f380800000000000000
+      internalID: -8938765426311365722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 388
+        width: 101
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac74a12959b162b0800000000000000
+      internalID: -5592985469749789536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 257
+        width: 120
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df154d9b63ff7f980800000000000000
+      internalID: -8505048760754875907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 261
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8aa0dc18638288a0800000000000000
+      internalID: -6304332045181998449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 255
+        width: 130
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67480b42cc8a1bb0800000000000000
+      internalID: -4964500873112172689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 259
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2a0de73194c5ab0800000000000000
+      internalID: -5018055536716766491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 258
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093a4d5fe874913a0800000000000000
+      internalID: -6694240691774250096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 260
+        width: 111
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc13af40001a7eaf0800000000000000
+      internalID: -367147823151828532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 132
+        width: 114
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0699e917d9a757350800000000000000
+      internalID: 6013847694057838944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 129
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eca1ecf35ef40510800000000000000
+      internalID: 1514615011381718248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 128
+        width: 107
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2206ed1a8028f00800000000000000
+      internalID: 1117465148854903456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 134
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97313da4170838dd0800000000000000
+      internalID: -2485001345303374983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 127
+        width: 113
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264bfb258a20e4440800000000000000
+      internalID: 4921874364728587362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 130
+        width: 109
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94071f6c52d0d7b0800000000000000
+      internalID: -5201426275170319203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 118
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d4c997db2755750800000000000000
+      internalID: 6293062212434808152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1
+        width: 108
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e4853a017614b80800000000000000
+      internalID: -8412329307793764712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2
+        width: 117
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fadb1c3fe3f85f30800000000000000
+      internalID: 4564666431171189497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 130
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551e7f8e55719edd0800000000000000
+      internalID: -2456406464005676715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 120
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872662eb86bae6560800000000000000
+      internalID: 7308967711624028792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Houses_Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1
+        width: 113
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd1404d1ea78aee0800000000000000
+      internalID: -1249613786252042802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Medieval Houses_Sprite Sheet_0: 8842448884688592804
+      Medieval Houses_Sprite Sheet_1: 1720999878024820393
+      Medieval Houses_Sprite Sheet_10: -8938765426311365722
+      Medieval Houses_Sprite Sheet_11: -5592985469749789536
+      Medieval Houses_Sprite Sheet_12: -8505048760754875907
+      Medieval Houses_Sprite Sheet_13: -6304332045181998449
+      Medieval Houses_Sprite Sheet_14: -4964500873112172689
+      Medieval Houses_Sprite Sheet_15: -5018055536716766491
+      Medieval Houses_Sprite Sheet_16: -6694240691774250096
+      Medieval Houses_Sprite Sheet_17: -367147823151828532
+      Medieval Houses_Sprite Sheet_18: 6013847694057838944
+      Medieval Houses_Sprite Sheet_19: 1514615011381718248
+      Medieval Houses_Sprite Sheet_2: 4353500894831542582
+      Medieval Houses_Sprite Sheet_20: 1117465148854903456
+      Medieval Houses_Sprite Sheet_21: -2485001345303374983
+      Medieval Houses_Sprite Sheet_22: 4921874364728587362
+      Medieval Houses_Sprite Sheet_23: -5201426275170319203
+      Medieval Houses_Sprite Sheet_24: 6293062212434808152
+      Medieval Houses_Sprite Sheet_25: -8412329307793764712
+      Medieval Houses_Sprite Sheet_26: 4564666431171189497
+      Medieval Houses_Sprite Sheet_27: -2456406464005676715
+      Medieval Houses_Sprite Sheet_28: 7308967711624028792
+      Medieval Houses_Sprite Sheet_29: -1249613786252042802
+      Medieval Houses_Sprite Sheet_3: 2606649494487662864
+      Medieval Houses_Sprite Sheet_4: 3066238953694353045
+      Medieval Houses_Sprite Sheet_5: 8385093139504373376
+      Medieval Houses_Sprite Sheet_6: 3376513030301771155
+      Medieval Houses_Sprite Sheet_7: -829027693196891426
+      Medieval Houses_Sprite Sheet_8: -8755887332040847328
+      Medieval Houses_Sprite Sheet_9: -3455908018151040180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
